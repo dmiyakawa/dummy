@@ -2,4 +2,5 @@ Test project
 
 test.
 
-hoge
+hoge.
+dummy
